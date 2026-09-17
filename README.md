@@ -57,9 +57,9 @@ The dashboard can be used to analyze:
 - Interactive navigation between dashboard pages
 ## Dashboard Preview
 ### Summary
-![Summary Dashboard](Screenshots/Summary.png)
+![Summary Dashboard](Summary.png.JPG)
 ### Overview
-![Overview Dashboard](Screenshots/Overview.png)
+![Overview Dashboard](Overview.png.JPG)
 ## Project Structure
 ```text
 bank-loan-analytics-powerbi/
